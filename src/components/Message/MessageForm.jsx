@@ -26,7 +26,8 @@ const MessageForm = ({ sendMessage, message, setMessage }) => {
           height: '4em',
           width: '12em',
           color: '#fff',
-          fontWeight: 'bold'
+          fontWeight: 'bold',
+          backgroundColor: '#e5bc03',
         }}
       >
         Send
